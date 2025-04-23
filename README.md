@@ -2,12 +2,12 @@
 
 This project uses SQL to analyze a synthetic mobile money transaction dataset and explore fraud detection challenges.
 
-## 📊 Project Overview
+## Project Overview
 
 ## Data Source
 
 - [PaySim Dataset on Kaggle](https://www.kaggle.com/datasets/ntnu-testimon/paysim1)
- **Note:** For this project, only the **first 10,000 rows** of the dataset were used to simplify analysis and improve performance within Microsoft SQL Server.
+- **Note:** For this project, only the **first 10,000 rows** of the dataset were used to simplify analysis and improve performance within Microsoft SQL Server.
 
 
 
